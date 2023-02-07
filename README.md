@@ -1,2 +1,2 @@
 # celcius
-convert celcius to warenheight
+convert celcius to farenheight
